@@ -8,3 +8,4 @@ Writing out line 6
 Writing out line 7
 Writing out line 8
 Writing out line 9
+Adding this change on the conflict branch
